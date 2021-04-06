@@ -32,12 +32,17 @@ html, body{
     }
     .profile-info{
         font-family: 'New Tegomin', serif; 
-        display: grid;
-        justify-content: center;
+        /* display: grid;
+        justify-content: center; */
+        /* display: flex;
+        justify-content: start; */
+        /* display: flex; */
+        text-align: center;
+
     }
     .profile-info p{
         margin: 0;
-        padding: 8px;
+        /* padding: 8px; */
     }
     .profile-edit{
         display: flex;
