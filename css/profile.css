@@ -1,3 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+html, body{
+}
+.container{
+    height: 100vh;
+    display: grid;
+    align-items: center;
+}
 .profile-card{
         width: 400px;
         border: 1px solid purple;
@@ -6,6 +16,7 @@
         border-radius: 6px;
         padding-top: 20px;
         padding-bottom: 20px;
+        margin: 0 auto; 
     }
     .profile-image{
         width: 300px;
@@ -20,7 +31,7 @@
         justify-content: center;
     }
     .profile-info{
-        font-family: 'New Tegomin', serif;
+        font-family: 'New Tegomin', serif; 
         display: grid;
         justify-content: center;
     }
