@@ -27,8 +27,8 @@ html, body{
     }
 
 .profile-avatar{
-        display: flex;
-        justify-content: center;
+        /* display: flex;
+        justify-content: center; */
     }
     .profile-info{
         font-family: 'New Tegomin', serif; 
@@ -45,8 +45,8 @@ html, body{
         /* padding: 8px; */
     }
     .profile-edit{
-        display: flex;
-        justify-content: center;
+        /* display: flex;
+        justify-content: center; */
         padding-top: 25px;
     }
     .button{
